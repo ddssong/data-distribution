@@ -4,8 +4,6 @@ For calculating the mean, median and mode for unimodal data from the input list.
 Hi guys, this is a simple code project for my Python class final.
 Hope the code can help a little if someone reads it.(Probably not, LOL)
 
-"""A collection of function for doing my project.
-"""
 
 # Calculate the total number of values in the input list.
 def count_number(input_list):
